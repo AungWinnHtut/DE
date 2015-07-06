@@ -1,0 +1,43 @@
+    1  pwd
+    2  cd /
+    3  ls
+    4  ls
+    5  cd linux
+    6  ls
+    7  cd linux
+    8  ls
+    9  ls -l
+   10  git status
+   11  git log
+   12  cd .git
+   13  rm -rf *
+   14  cd ..
+   15  rmdir .git
+   16  cd ..
+   17  rmdir linux
+   18  cd ..
+   19  rmdir linux
+   20  exit
+   21  cd D:\Articles\Natural Disaster (Zay Phyo)
+   22  cd D:\Private\GitRepo\current
+   23  cd d:
+   24  cd private
+   25  cd gitrepo
+   26  cd current
+   27  git status
+   28  ls -l
+   29  git add --all
+   30  git commit -m "added many files and update zayphyo"
+   31  git push -u origin master
+   32  cd /
+   33  cd d:/students
+   34  cd de
+   35  cd codes
+   36  ls
+   37  del *.exe
+   38  rm *.exe
+   39  ls
+   40  rm *.o
+   41  ls
+   42  history
+   43  history > history.txt
